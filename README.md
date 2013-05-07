@@ -1,8 +1,6 @@
-AngularJS-translation
+AngularJS 中译本
 =====================
 ![AngularJS](cover.gif)
-
-Chinese translation of book AngularJS
 
 Please include following information if you use my translation in your text:
 
