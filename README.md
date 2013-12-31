@@ -21,3 +21,10 @@ AngularJS Demo/Applications:
 
 *There are also some Angular learning resources in the project issues section, check it out*
 
+UPDATE
+======
+This book already translated by [大漠穷秋](http://blog.csdn.net/damoqiongqiu)
+
+![用AngularJS开发下一代Web应用](http://img3.douban.com/lpic/s27105731.jpg)
+
+http://book.douban.com/subject/25752512/
